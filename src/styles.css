@@ -101,8 +101,6 @@ input::placeholder {
   animation: fadeIn 0.5s linear;
 }
 
-
-
 .weather {
   display: flex;
   justify-content: center;
@@ -113,4 +111,8 @@ input::placeholder {
 
 .js-weather {
   margin: auto 0px;
+}
+
+li {
+  padding-inline-start: 0px;
 }
